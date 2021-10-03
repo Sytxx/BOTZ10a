@@ -49,24 +49,6 @@ https://api-alphabot.herokuapp.com
 ▢ ${prefix}sticker\`\`\``
 }
 
-exports.promenu = (prefix) => {
-	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
-*≡ PRO MENU*
-\`\`\`▢ ${prefix}nulis1 
-▢ ${prefix}nulis2 
-▢ ${prefix}nulis3 
-▢ ${prefix}nulis4 
-▢ ${prefix}nulis5 
-▢ ${prefix}nulis6 
-▢ ${prefix}video1 
-▢ ${prefix}video2 
-▢ ${prefix}video3 
-▢ ${prefix}video4 
-▢ ${prefix}video5 
-▢ ${prefix}video6\`\`\` `
-}
 
 exports.downloadmenu = (prefix) => {
 	return`✇ *REST API*
