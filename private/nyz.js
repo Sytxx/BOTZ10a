@@ -187,21 +187,6 @@ ${petik}│❒ ${prefix}trigger
 │❒ ${prefix}tanjirou
 │❒ ${prefix}loli${petik}
 │
-├◪ ⧉ *PRO MENU* ⧉
-│
-│❒ ${petik}${prefix}nulis1${petik} 
-│❒ ${petik}${prefix}nulis2${petik} 
-│❒ ${petik}${prefix}nulis3${petik} 
-│❒ ${petik}${prefix}nulis4${petik} 
-│❒ ${petik}${prefix}nulis5${petik} 
-│❒ ${petik}${prefix}nulis6${petik} 
-│❒ ${petik}${prefix}video1${petik} 
-│❒ ${petik}${prefix}video2${petik} 
-│❒ ${petik}${prefix}video3${petik} 
-│❒ ${petik}${prefix}video4${petik} 
-│❒ ${petik}${prefix}video5${petik} 
-│❒ ${petik}${prefix}video6${petik}
-│
 ├◪ ⧉ *QUOTES MENU* ⧉
 │
 │❒ ${petik}${prefix}katailham${petik}  
@@ -223,18 +208,9 @@ ${petik}│❒ ${prefix}trigger
 │❒ ${petik}${prefix}igfoto${petik}  
 │❒ ${petik}${prefix}igvideo${petik}  
 │❒ ${petik}${prefix}pixiv${petik}  
-│❒ ${petik}${prefix}pixivdl${petik}  
-│❒ ${petik}${prefix}xhamstersearch${petik}  
+│❒ ${petik}${prefix}pixivdl${petik}    
 │❒ ${petik}${prefix}ytsearch${petik}  
-│❒ ${petik}${prefix}ytmp3${petik}  
-│❒ ${petik}${prefix}xhamster${petik}  
-│❒ ${petik}${prefix}xnxxsearch${petik}  
-│❒ ${petik}${prefix}xnxx${petik}  
-│❒ ${petik}${prefix}nhentai${petik}  
-│❒ ${petik}${prefix}nhentaipdf${petik}  
-│❒ ${petik}${prefix}nhentaisearch${petik} 
-│❒ ${petik}${prefix}nekopoi${petik}   
-│❒ ${petik}${prefix}nekopoisearch${petik}   
+│❒ ${petik}${prefix}ytmp3${petik}      
 │❒ ${petik}${prefix}ytmp4${petik}  
 │❒ ${petik}${prefix}play${petik}  
 │❒ ${petik}${prefix}playmp3${petik}  
@@ -276,34 +252,6 @@ ${petik}│❒ ${prefix}trigger
 │❒ ${petik}${prefix}parkchanyeol${petik} 
 │❒ ${petik}${prefix}suga${petik}  
 │❒ ${petik}${prefix}kimtaehyung${petik} 
-│ 
-├◪ ⧉ *NSFW & SFW MENU* ⧉
-│
-│❒ ${petik}${prefix}ahegao${petik} 
-│❒ ${petik}${prefix}ass${petik} 
-│❒ ${petik}${prefix}bdsm${petik} 
-│❒ ${petik}${prefix}blowjob${petik} 
-│❒ ${petik}${prefix}cuckold${petik}
-│❒ ${petik}${prefix}cum${petik} 
-│❒ ${petik}${prefix}ero${petik} 
-│❒ ${petik}${prefix}femdom${petik} 
-│❒ ${petik}${prefix}foot${petik} 
-│❒ ${petik}${prefix}gangbang${petik} 
-│❒ ${petik}${prefix}glasses${petik}
-│❒ ${petik}${prefix}hentai${petik} 
-│❒ ${petik}${prefix}hentai_gifs${petik} 
-│❒ ${petik}${prefix}jahy${petik} 
-│❒ ${petik}${prefix}manga${petik} 
-│❒ ${petik}${prefix}masturbation${petik} 
-│❒ ${petik}${prefix}neko${petik}
-│❒ ${petik}${prefix}orgy${petik} 
-│❒ ${petik}${prefix}panties${petik} 
-│❒ ${petik}${prefix}pussy${petik} 
-│❒ ${petik}${prefix}neko_sfw${petik} 
-│❒ ${petik}${prefix}tentacles${petik} 
-│❒ ${petik}${prefix}thighs${petik}
-│❒ ${petik}${prefix}yuri${petik}
-│❒ ${petik}${prefix}zettai${petik}
 │
 ├◪ ⧉ *ASUPAN MENU* ⧉
 │
@@ -328,63 +276,6 @@ ${petik}│❒ ${prefix}rikagusriani
 │❒ ${prefix}mama_gina
 │❒ ${prefix}alcakenya 
 │❒ ${prefix}mangayutri${petik}  
-│
-├◪ ⧉ *SOUND MENU* ⧉
-│
-│❒ ${petik}${prefix}tomp3${petik} 
-│❒ ${petik}${prefix}sound1${petik}  
-│❒ ${petik}${prefix}sound2${petik}  
-│❒ ${petik}${prefix}sound3${petik}  
-│❒ ${petik}${prefix}sound4${petik}  
-│❒ ${petik}${prefix}sound5${petik}  
-│❒ ${petik}${prefix}sound6${petik}  
-│❒ ${petik}${prefix}sound7${petik}  
-│❒ ${petik}${prefix}sound8${petik}  
-│❒ ${petik}${prefix}sound9${petik}  
-│❒ ${petik}${prefix}sound10${petik}  
-│❒ ${petik}${prefix}sound11${petik}  
-│❒ ${petik}${prefix}sound12${petik}  
-│❒ ${petik}${prefix}sound13${petik}  
-│❒ ${petik}${prefix}sound14${petik}  
-│❒ ${petik}${prefix}sound15${petik}  
-│❒ ${petik}${prefix}sound16${petik}  
-│❒ ${petik}${prefix}sound17${petik}  
-│❒ ${petik}${prefix}sound18${petik}  
-│❒ ${petik}${prefix}sound19${petik}  
-│❒ ${petik}${prefix}sound20${petik}  
-│❒ ${petik}${prefix}sound21${petik}  
-│❒ ${petik}${prefix}sound22${petik}  
-│❒ ${petik}${prefix}sound23${petik}  
-│❒ ${petik}${prefix}sound24${petik}  
-│❒ ${petik}${prefix}sound25${petik} 
-│
-├◪ ⧉ *PORN MENU* ⧉
-│
-│❒ ${petik}${prefix}indo1${petik}   
-│❒ ${petik}${prefix}indo2${petik}   
-│❒ ${petik}${prefix}indo3${petik}   
-│❒ ${petik}${prefix}indo4${petik}   
-│❒ ${petik}${prefix}indo5${petik}   
-│❒ ${petik}${prefix}indo6${petik}   
-│❒ ${petik}${prefix}indo7${petik}   
-│❒ ${petik}${prefix}indo8${petik}   
-│❒ ${petik}${prefix}indo9${petik}   
-│❒ ${petik}${prefix}indo10${petik}   
-│❒ ${petik}${prefix}indo11${petik}   
-│❒ ${petik}${prefix}indo12${petik}   
-│❒ ${petik}${prefix}indo13${petik}   
-│❒ ${petik}${prefix}indo14${petik}   
-│❒ ${petik}${prefix}indo15${petik}   
-│❒ ${petik}${prefix}indo16${petik}   
-│❒ ${petik}${prefix}indo17${petik}   
-│❒ ${petik}${prefix}indo18${petik}   
-│❒ ${petik}${prefix}indo19${petik}   
-│❒ ${petik}${prefix}indo20${petik}   
-│❒ ${petik}${prefix}indo21${petik}   
-│❒ ${petik}${prefix}indo22${petik}   
-│❒ ${petik}${prefix}indo23${petik}   
-│❒ ${petik}${prefix}indo24${petik}   
-│❒ ${petik}${prefix}indo25${petik} 
 │
 ├◪ ⧉ *STORAGE MENU* ⧉
 │ 
